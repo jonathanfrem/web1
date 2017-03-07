@@ -1,0 +1,43 @@
+#name {
+        color:grey;
+        font-size: 30px;
+        padding-top: 50px;           
+        font-family: "Arial Black", Gadget, sans-serif;
+            
+            
+            
+            
+        }
+        
+#nameDiv {
+       
+        
+       
+          
+            
+        }
+
+#collected {
+    background-color: beige;
+    text-align: center;
+    width: 35%;
+    height: 300px;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+
+    
+#buzzfeed {
+    width:50px;
+    height:50px;
+    border-radius: 25px;
+    position: absolute;
+    left: 35%;
+}
+
+#socialmedia {
+    margin: auto;
+    width: 35%;
+    padding-top: 100px;
+}
