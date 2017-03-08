@@ -31,12 +31,18 @@
 
     
 #buzzfeed {
-    left: 35%;
+    left: 36%;
 }
 
 #facebook {
-    left: 40%;
+    left: 41%;
 }
+
+#github {
+    left: 46%;
+}
+
+
 
 #socialmedia {
     margin: auto;
