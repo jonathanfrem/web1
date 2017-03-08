@@ -10,6 +10,8 @@
         font-size: 30px;
         padding-top: 50px;           
         font-family: "Arial Black", Gadget, sans-serif;
+        padding-right: 90px;
+        padding-left: 90px;
      
         }
         
@@ -22,7 +24,7 @@
 #collected {
     background-color: beige;
     text-align: center;
-    width: 35%;
+    width: 500px;
     height: 300px;
     margin: auto;
     border-radius: 10px;
