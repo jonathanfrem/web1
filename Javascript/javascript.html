@@ -11,11 +11,17 @@
 
     <body>
 
-        <button onclick="alert('Hi!')">Click Me!</button>
+        <p id="text">Hello World</p>
+        
+        <button id="button"> Change text</button>
         
         <script type="text/javascript">
             
-                alert("page loaded");
+            
+            document.getElementById("button").onclick = function() {
+                document.getElementById("text").innerHTML ="Hi";
+            }
+              
                 
             
         </script>
